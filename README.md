@@ -1,4 +1,4 @@
-# Use Cache with Redis for Node.js
+# Cache with Redis for Node.js
 
 ## How to run it
 
